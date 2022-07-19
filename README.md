@@ -29,11 +29,14 @@ $ npm install
 
 ## Running
 
-Run the application with `npm run dev` command. It will start the app on [localhost:3000](http://localhost:3000/):
+Run the application with `npm run dev` command. 
 
 ```shell
 $ npm run dev
 ```
+
+You can make post requests on [localhost:3000/shorten](http://localhost:3000/shorten), through Postman, Insomnia, or any other platform.
+After, you can make get request by pasting the shortened URL on your browser.  
 
 Hope you like 😃
 
